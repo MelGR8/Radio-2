@@ -15,7 +15,7 @@ target/
 ### Eclipse ###
 .apt_generated
 .classpath
-.factorypath
+.factorypathgi
 .project
 .settings
 .springBeans
@@ -36,5 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/
 /.idea/
 /.idea/
